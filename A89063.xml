@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mercurius anglicus: or, England's Merlin. Prophetically fore-telling, the admirable events, and wonderful effects, that shall befall the King of Scots, the states of Holland, and the Parliament of England in all their consultations, warlike actions, and naval designes, both by sea and land, for the year of our Lord, 1653. With the most exact predictions, and monthly observations, touching the great rising of the European nations against England; and the success that will attend them in all their motions, enterprises, and attempts; as also, the causes of these strange re[v]olutions, mutations, inclinations, and eversions of empires, kingdoms, and common-wealths. Likewise, the astromical calculations of the eclipses, lunations, and conjunctions; portending a great change of government, religion, and law, in England, Scotland, and Ireland; together with the taking off all taxes, assesments, burdens, and oppressions; and calling to a severe account all committees and treasurers; with the executing of many great ones. Collected out of the most elaborate works of Captain George Wharton, Esquire, Mr. William Eill[ ]e, Mr. John Booker, Mr. Vincent Wing, and Mr. Nicholas Culpeper, students in as</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89063</idno>
+            <idno type="STC">Wing M1751</idno>
+            <idno type="STC">ESTC R231918</idno>
+            <idno type="EEBO-CITATION">99900036</idno>
+            <idno type="PROQUEST">99900036</idno>
+            <idno type="VID">133295</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133295)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2503:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mercurius anglicus: or, England's Merlin. Prophetically fore-telling, the admirable events, and wonderful effects, that shall befall the King of Scots, the states of Holland, and the Parliament of England in all their consultations, warlike actions, and naval designes, both by sea and land, for the year of our Lord, 1653. With the most exact predictions, and monthly observations, touching the great rising of the European nations against England; and the success that will attend them in all their motions, enterprises, and attempts; as also, the causes of these strange re[v]olutions, mutations, inclinations, and eversions of empires, kingdoms, and common-wealths. Likewise, the astromical calculations of the eclipses, lunations, and conjunctions; portending a great change of government, religion, and law, in England, Scotland, and Ireland; together with the taking off all taxes, assesments, burdens, and oppressions; and calling to a severe account all committees and treasurers; with the executing of many great ones. Collected out of the most elaborate works of Captain George Wharton, Esquire, Mr. William Eill[ ]e, Mr. John Booker, Mr. Vincent Wing, and Mr. Nicholas Culpeper, students in as</title>
+                  <author>Booker, John, 1603-1667.</author>
+                  <author>Wing, Vincent, 1619-1668.</author>
+                  <author>Culpeper, Nicholas, 1616-1654.</author>
+                  <author>Wharton, George, fl. 1653.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by R[obert]. Wood,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from Wing (CD-ROM edition).</note>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2503 has faded print with some loss of text.</note>
+                  <note>Reproduction of original in the Wellcome Institute for the History of Medicine, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Almanacs --  Early works to 1800.</term>
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133295:1"/>
+            <pb facs="tcp:133295:1"/>
+            <p>MERCURIUS ANGLICUS:
+OR,
+ENGLANDS MERLIN.</p>
+            <p>Prophetically fore-telling,
+The Admirable Events, and Wonderful Effects,
+that ſhall befall the King of Scots, the States of Holland,
+and the Parliament of England, in all their Conſultations,
+Warlike Actions, and Naval Deſignes, both by Sea
+and Land, for the Year of our Lord, 1653.</p>
+            <p>WITH
+The moſt exact Predictions, and Monthly Obſer<g ref="char:EOLhyphen"/>vations,
+touching the great Riſing of the European Na<g ref="char:EOLhyphen"/>tions
+againſt England; and the ſucceſs that will attend
+them in all their Motions, Enterpriſes, and Attempts;
+As alſo, the Cauſes of theſe ſtrange Re<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olutions,
+Mutations, Inclinations, and Everſions of Em<g ref="char:EOLhyphen"/>pires,
+Kingdoms, and Common-wealths.</p>
+            <p>LIKEWISE,
+The Aſtromical Calculations of the Eclipſes, Lu<g ref="char:EOLhyphen"/>nations,
+and conjunctions; portending a great Change
+of Government, Religion, and Law, in England, Scotland,
+and Ireland; together with the taking off all Taxes,
+Aſſeſments, Burdens, and Oppreſſions; and cal<g ref="char:EOLhyphen"/>ling
+to a ſevere Account all Committees and
+Treaſurers; with the executing of
+many great Ones.</p>
+            <p>COllected out of the moſt elaborate Works of Captai-<hi>George Wharton,</hi>
+Eſquire, <hi>Mr. William Eill<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, Mr. John Booker, Mr. Vincent Wing,</hi>
+and <hi>Mr. Nicholas Culpeper,</hi> Students in Aſtrology and phyſick.</p>
+            <p>London, Printed by R. WOOD, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:133295:2"/>
+            <pb facs="tcp:133295:2"/>
+            <pb n="4" facs="tcp:133295:3"/>
+            <head>Merlinus Anglicus, &amp;c.</head>
+            <div type="month">
+               <head>Januaries Obſervations.</head>
+               <p>THe year ſeems to begin pleaſantly; our States promiſe fairly; and long-look's
+for comes at laſt; for the heavy burden of the people is removing;
+the honours of many great Ones are eclipſing; and the ſouldiery begin to be
+highly elevated, whileſt the poor Countrey Farmer (whoſe condition I pity)
+complains and ſads his heart, in regard his Cattle are like in many places to
+p<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>riſh for want of fodder and meat. A great change threatens the Lawyer: Sad<g ref="char:EOLhyphen"/>neſs
+ſeems to poſſeſſe the ſpirits of many great Ones. The year initiates fair, but
+ſeaſonably cold and froſty; and ſo continues for the moſt part, until the 15 day,
+from whence (eſpecially about the 18, 19, 20, &amp; 21 dayes) look for abundance of
+ſnow or rain, and dark unwholeſome weather.</p>
+            </div>
+            <div type="month">
+               <head>Obſervations on Feb.</head>
+               <p>GReat are the Deſigns now in Conſults, and ſuch as may (by Gods bleſſing)
+make us happy for ſome ſucceeding years; Angels of Gold pleaſe the ſaints
+on earth, elſe why are ſome zealous ſpirits now calmed? Remiſs cold fair wea<g ref="char:EOLhyphen"/>ther
+for the moſt part till the 10 day; from whence expect cold winds, Rain or
+ſnow, until the 14. The 15 and 16 days fair and ſeaſonable. About the 17, 18, &amp;
+19 dayes look for more rain and ſnow. The latter end of this month (eſpecially
+the 26 day) will produce impetuous ſtorms of Rain and Hail. Full moon the
+2<hi rend="sup">d</hi> day. New moon the 17 day.</p>
+            </div>
+            <div type="month">
+               <head>Obſervations on March.</head>
+               <p>THe Hollander is as buſie as a fly in the hony-pot, and great preparations are
+making againſt us; but alas! I could wiſh Noah's Dove might appear with
+glad tydings of peace, after theſe late, lon<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and terrible wars, which are ſtil like
+to be for ſome years univerſal. Some ſmall ſnow the firſt three days. Much Rain
+or ſnow about the full Moon, and ſo for the moſt part till after the 6 day; and
+thence the Air will be more ſerene (though very cold and froſty mornings] un<g ref="char:EOLhyphen"/>till
+the 15 day. The reſt of the month will be fair but windy. The 4 day full
+Moon, but ſhe's totally eclipſed all England over. The 19 day full Moon.</p>
+               <p>A word in ſeaſon to the Lawyer: Gentlemen, to deal ingeniouſly, the divine
+Aſpects of heaven promiſeth fair; ballance your Wiſdom in the Skales of Equi<g ref="char:EOLhyphen"/>ty,
+and do juſtice to all men; for there are a people that will ſwell with invec<g ref="char:EOLhyphen"/>tives
+againſt Thee neer theſe Times.</p>
+               <q>
+                  <l>The Term commences with the Lawyer's grief</l>
+                  <l>[Curt Fees, and they deſerve as Curt relief:]</l>
+                  <l>Lawyers prefer the ſharpeſt Lawes, as best</l>
+                  <l>To keep a Common-wealth in peace and rest:</l>
+                  <l>If ſo; why ſhould the Gown-men frown and puff</l>
+                  <l>To ſee the Courts of Juſtice lyn<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d with Buff?</l>
+                  <l>No Plea e're moved as a Sword can do;</l>
+                  <l>For that ore-ruleth Judge and Jury too.</l>
+               </q>
+            </div>
+            <div type="month">
+               <pb n="5" facs="tcp:133295:3"/>
+               <head>Obſervations on April.</head>
+               <p>FOur times ſhall the Inhabitants of the earth behold the Luminaries eclipſed
+this yeer, twice the Sun, and as oft the Moon; but we in England, as alſo Ire<g ref="char:EOLhyphen"/>land,
+France, Spain, and Scotland, ſhall not ſee any of them, except one, &amp; that
+total of the Moon, which will happen on the 4. of March; it will begin at one of
+the clock, 48 min. paſt, in the morning; the beginning will be at one min. before
+3 of the clock, the greateſt obſcurity at 53 min. paſt 3 a clock; the end of it at 17
+min. paſt 4, and at 57 min. paſt 5 the Moon will have fully recovered her bor<g ref="char:EOLhyphen"/>rowed
+light: the whole duration will be 4 ho: 9 min. the colour of the Eclipſe
+at the greateſt darkneſs will be black, with a greeniſh aſh-colour. The effects wil
+operate about the 26 of Octob. about which time, up goes ſome great Ones in
+Authority Rain, Thunder, and Lightning, moſt part of the month. Full Moon
+the 2<hi rend="sup">d</hi> day. New Moon the 16 day.</p>
+            </div>
+            <div type="month">
+               <head>Obſervations on May.</head>
+               <p>O Save all, ſave all, ſave all; never more need; for the month ſeems to begin
+with bloud; and ſome eminen: Gentlemen are expos'd to the mercy of the
+mercileſs. Heavens defend the City and Country from Oppreſſion and Tyranny;
+for violent ſeavers, the ſmall pox, and a great ſickneſs or peſtilence threatens the
+people. Violent and bloudy ſea-fights all along our Coaſts, and great prepara<g ref="char:EOLhyphen"/>tions
+in Scotland to invade us. The month begins with ſtorms, but ends fairly,
+with a full Moon the 2<hi rend="sup">d</hi> day, and a new Moon the 16. day.</p>
+               <q>
+                  <l>Whither an Army now? well! I could ſay</l>
+                  <l>Who 'tis will get, or who ſhall loſe the day,</l>
+                  <l>Th<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſillus like inform you, who ſhall prove</l>
+                  <l>Victorioas in's Ambition, who in's Love:</l>
+                  <l>But I am ſilent, nay, I must be dumb,</l>
+                  <l>'Tis Treaſon, now, to pray, <hi>Thy Kingdom come.</hi>
+                  </l>
+               </q>
+            </div>
+            <div type="month">
+               <head>Obſervations on June.</head>
+               <p>SAd news from ſeveral parts; &amp; our Grandees begin to be ſomwhat amuſed,
+by reaſon of the vehemency of an extreme p<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtilence that threatens to remove
+them from their Judicature at Weſtminſter: Gods will be done; but my ardent
+deſire is, That Divine providence may divert this ſore and heavy judgment; and
+that hunger and ſickneſs may not afflict the poor: Few Kings and Princes in
+Exrope but ſhall raſte of the fury of the Eclipſe before cited; and thoſe that do<g ref="char:EOLhyphen"/>mineer
+like little Lords ought to look about them: but mum! I dare ſay no
+more.</p>
+            </div>
+            <div type="month">
+               <head>July's Obſervations.</head>
+               <p>A Sad time! All Europe are up in arms, and the people ſtretch their wits, even
+till they break them, to fight againſt the Decrees of Heaven. The Common<g ref="char:EOLhyphen"/>wealth
+in general is foreſeen to be in a good condition, and the States receive
+good news from their ſervants at ſea; Which produceth an attonement from
+the poor <hi>H<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gens</hi> of Holland, but without a miracle no peace proceeds; ſo that
+they ſwarm like Locuſts in our ſeas, yet return home handſomly beaten. Here is
+much ſnarling and tugging again about the Laws and Tyth<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by diſcontented
+ſouls, whilſt our ſuperiors are alſo amongſt themſelves divided in their conſul<g ref="char:EOLhyphen"/>tations,
+how to appeaſe the demands of Thouſands wh<gap reason="illegible: faint" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> nothing will ſerve
+or ſ<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e but a new Election. Oh Heavens! the <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> are ſlighted, and their <gap reason="illegible: faint" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible: faint" extent="1 page">
+                     <desc>〈1 page〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:133295:4"/>
+                  <gap reason="illegible: faint" extent="1 page">
+                     <desc>〈1 page〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:133295:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:133295:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:133295:5"/>
+                  <pb n="8" facs="tcp:133295:6"/>
+to ſay, England, Scotland, France, Germany, Zealand, Spain, Portugal, &amp;c. The
+preſent King of Spain hath the Sun in the 18 deg. of <hi>Aries,</hi> with the Dragons
+Tayl, and the Moon in the 28 of Sagittary, in conjunction with Saturn, the Sun
+in the 5<hi rend="sup">th</hi>, and the Moon in the 2<hi rend="sup">d</hi> houſe of the Radix; and therefore let him
+expect ſome harm or loſs to befall him either in his body, children, or revenew,
+if not all. Another King I know (and truly honour) which Horoſcope is within
+3 deg. of the point eclipſed, Mar. 3. 1653. which bod<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s him ſome infirmity of bo<g ref="char:EOLhyphen"/>dy,
+what, I ſay not: becauſe I ſuppoſe the progreſſion of the Horoſcope to the
+Terms of Jupiter, may fruſtrate the evil thereby ſignified.</p>
+               <p>But I wiſh we may find it otherwiſe then is here premoniſhed; I deſire peace
+and not war; but I fear it much, though I hope the contrary; for I ſee mens
+hearts more obdurate then ever, every man in theſe iron days looking after his
+own by-ends, and not at the common good; but what need I ment on this?
+Doth not every man that hath eyes ſee how miſerably this Nation hath already
+been wrackt and poled by a company of beggerly cheats? Sub Treaſurers and
+Sequeſtrators look about you, &amp; all you, that have unjuſtly converted the Trea<g ref="char:EOLhyphen"/>ſure
+of the Commonwealth to your own uſes; of what place and condition ſo<g ref="char:EOLhyphen"/>ever
+you are of, you are ſore threatned, the time will come, and is neer approch<g ref="char:EOLhyphen"/>ing,
+when you muſt render an account of your actions; your riches may prove
+your ruine, if you make not a timely account to the Common-weal. I pray God
+make the Parliament wiſe, the Body of this Fabrick ſtanding upon a very totte<g ref="char:EOLhyphen"/>ring
+foundation: for if this Authority under which we m<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, after this Op<g ref="char:EOLhyphen"/>poſition
+of <hi>Saturn</hi> and <hi>Jupiter,</hi> ſhall inforce us to ſome new and illegal aſſeſment,
+or by way of raiſing money upon any pretence whatſoever (except againſt the
+Dutch) I am confident, we of the Commonalty joyning with the ſouldier, ſhall
+aſſume ſo much liberty to our ſelves, as to chooſe and elect ſuch Members as
+hereafter ſhall be more tender of our purſes, and more liberal of their own; and
+we ſhall indeavor ſo ſtrictly to call unto account each member of this Parl. who
+hath fingured our Treaſure, that we ſhall leave many of them as naked as when
+they came out of their mothers words, or when firſt to be members of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+               <q>
+                  <l>Thus Changes came, thus Changes will enſue</l>
+                  <l>(Till theſe corrupted Bodies change for new</l>
+                  <l>And put on Incorruption) Men and Things,</l>
+                  <l>Whole Countreyes, Cities, Beggers, Princes, Kings;</l>
+                  <l>He who but lately were a Crown of Goid,</l>
+                  <l>Crown'd now with thorns, exil'd, or baſe<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſ<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld:</l>
+                  <l>He clad in Rags and fed with ſcraps befo<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</l>
+                  <l>Now throan'd in's ſtead and ſurſe<gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ing with ſtore:</l>
+                  <l>A glorious Church and Kingdom, but today,</l>
+                  <l>To morrow both the Wolfe and Fox<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s prey:</l>
+                  <l>All, all to change, and Diſſolution tend,</l>
+                  <l>Poor Almanacks, ev'n they! must have</l>
+               </q>
+               <trailer>AN END.</trailer>
+               <pb facs="tcp:133295:6"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
